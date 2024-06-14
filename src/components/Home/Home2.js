@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
+import Mee from '../../Assets/Mee.png'
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -52,7 +53,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={Mee} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>

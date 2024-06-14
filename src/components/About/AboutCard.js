@@ -30,8 +30,8 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Leveraging data to unlock insights and drive innovation through advanced AI techniques!"{" "}
+          <p style={{ color: "#9AC8CD" }}>
+            "Leveraging data to unlock insights and drive innovation through advanced AI techniques !"{" "}
           </p>
           
         </blockquote>
