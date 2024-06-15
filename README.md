@@ -1,6 +1,4 @@
-Sure, here's a comprehensive README file for your React portfolio project, including instructions on how users can clone and start the project.
 
-```markdown
 # Abdelmajid Benjelloun - AI and ML Developer Portfolio
 
 Welcome to my portfolio website. This project showcases my work as an AI and ML developer, highlighting various projects, skills, and experiences. The site is built using React and hosted on Netlify.
