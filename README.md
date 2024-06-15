@@ -40,13 +40,13 @@ Make sure you have the following installed:
 1. **Clone the repo**
 
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AbdelmajidBen/Portfolio.git
    ```
 
 2. **Navigate to the project directory**
 
    ```sh
-   cd portfolio-
+   cd portfolio
    ```
 
 3. **Install NPM packages**
