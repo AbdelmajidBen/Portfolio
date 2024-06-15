@@ -94,4 +94,3 @@ Feel free to reach out to me via the contact form on my portfolio site or throug
 
 Thank you for visiting my portfolio!
 
-```
